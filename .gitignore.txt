@@ -1,0 +1,41 @@
+# Compiled output
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans / Ant build output
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+
+# NetBeans local machine settings 
+/nbproject/private/
+nbproject/private/
+nb-configuration.xml
+/.nb-gradle/
+
+# Maven / Gradle 
+/target/
+/.gradle/
+/out/
+
+# Other IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
